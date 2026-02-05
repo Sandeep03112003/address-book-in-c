@@ -29,6 +29,11 @@ Managing file updates during edit and delete operations was challenging. Proper 
 - Improved debugging and problem-solving skills
 - Experience in building real-world menu-driven applications
 
+ ## How to Compile and Run
+gcc src/*.c -o address_book
+./address_book
+
+
 ## Future Enhancements
 - Password-protected access
 - Sorting contacts
